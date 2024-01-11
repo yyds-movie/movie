@@ -45,8 +45,9 @@
     "episode_list": "//div[2]/div/div[2]/div/div[1]/div[2]/div[1]/ul[2]/li",
     "episode_name": "//a@text",
     "episode_url": "//a/@href",
-    "episode_play_url": "",
-    "episode_play_url_next": "",
+    "play_method": "get",
+    "play_url": "",
+    "play_url_next": "",
     "explore_json": ""
   },
   {
