@@ -10,7 +10,7 @@
     "charset": "utf8",
     "search_url": "https://www.9ehao.net/vodsearch/{{wd}}-------------.html",
     "search_method": "get",
-    "search_books": "//div[2]/div/div/dl",
+    "search_videos": "//div[2]/div/div/dl",
     "search_name": "//dd[1]/h1@text",
     "search_actor": "//dd[1]/ul/li[1]@text",
     "search_director": "//dd[1]/ul/li[2]@text",
