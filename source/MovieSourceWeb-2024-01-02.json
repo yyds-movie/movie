@@ -11,7 +11,7 @@
     "search_url": "https://www.9ehao.net/vodsearch/{{wd}}-------------.html",
     "search_method": "get",
     "search_books": "//div[2]/div/div/dl",
-    "search_name": "/dd[1]/h1@text",
+    "search_name": "//dd[1]/h1@text",
     "search_author": "",
     "search_category": "",
     "search_word_count": "",
