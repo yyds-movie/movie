@@ -1,7 +1,7 @@
 [
   {
     "name": "亿好",
-    "url": "https://www.9ehao.net/",
+    "url": "https://www.9ehao.net",
     "enabled": true,
     "explore_enabled": false,
     "type": "web",
@@ -257,7 +257,7 @@
   },
    {
     "name": "人人",
-    "url": "https://www.rrvipw.com/",
+    "url": "https://www.rrvipw.com",
     "enabled": true,
     "explore_enabled": false,
     "type": "web",
@@ -298,7 +298,7 @@
   },
   {
     "name": "死灵",
-    "url": "https://40tl.com/",
+    "url": "https://40tl.com",
     "enabled": true,
     "explore_enabled": false,
     "type": "web",
@@ -339,7 +339,7 @@
   },
    {
     "name": "乐可",
-    "url": "https://www.wwtch.com/",
+    "url": "https://www.wwtch.com",
     "enabled": true,
     "explore_enabled": false,
     "type": "web",
@@ -380,7 +380,7 @@
   },
    {
     "name": "电影",
-    "url": "https://dianyi.ng/",
+    "url": "https://dianyi.ng",
     "enabled": true,
     "explore_enabled": false,
     "type": "web",
@@ -421,7 +421,7 @@
   },
    {
     "name": "夜东京",
-    "url": "https://xn--44qz85a01qpc.com/",
+    "url": "https://xn--44qz85a01qpc.com",
     "enabled": true,
     "explore_enabled": false,
     "type": "web",
