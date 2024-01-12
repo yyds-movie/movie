@@ -43,7 +43,7 @@
     "information_episode_url": "//a/@href",
     "information_play_url": "//div[2]/div/div[1]/div[1]/dl/dd[2]/a/@href",
     "play_method": "get",
-    "player_aaaa": "//div[2]/div/div[1]/div[1]/script[1]",
+    "player_aaaa": "//div[2]/div/div[1]/div[1]/script[1]@text",
     "play_lines": "//div[2]/div/div[2]/div/div[1]/div[1]/ul/li",
     "play_line_name": "//a@text",
     "play_line_url": "//a/@href",
