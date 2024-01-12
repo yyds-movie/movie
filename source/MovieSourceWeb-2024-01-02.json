@@ -12,7 +12,7 @@
     "search_method": "get",
     "search_videos": "//div[2]/div/div/dl",
     "search_name": "//dd[1]/h1@text",
-    "search_cover": "/dt/a/img@data-original",
+    "search_cover": "//dt/a/@data-original",
     "search_actor": "//dd[1]/ul/li[1]@text",
     "search_director": "//dd[1]/ul/li[2]@text",
     "search_category": "//dd[1]/ul/li[3]@text",
