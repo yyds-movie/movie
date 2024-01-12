@@ -36,7 +36,7 @@
     "information_latest_episode": "",
     "information_latest_time": "",
     "information_lines": "//div[2]/div/div[2]/div/div[1]/div[1]/ul/li",
-    "information_line_name": "//[1]/a@text",
+    "information_line_name": "//a@text",
     "information_episodes": "//div[2]/div/div[2]/div/div[1]/div[2]/div[1]/ul[2]/li",
     "information_episode_name": "//a@text",
     "information_episode_url": "//a/@href",
