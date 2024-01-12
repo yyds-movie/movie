@@ -46,7 +46,7 @@
     "play_url": "",
     "play_url_next": "",
     "play_lines": "//div[2]/div/div[2]/div/div[1]/div[1]/ul/li",
-    "play_line_name": "//[1]/a@text",
+    "play_line_name": "//a@text",
     "play_line_url": "//a/@href",
     "play_episodes": "//div[2]/div/div[2]/div/div[1]/div[2]/div[1]/ul[2]/li",
     "play_episode_name": "//a@text",
