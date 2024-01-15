@@ -10,7 +10,7 @@
     "charset": "utf8",
     "search_url": "https://www.zhangxindy.com/index.php/vod/search.html?wd={{wd}}",
     "search_method": "get",
-    "search_videos": "//*[@id="searchList"]/li",
+    "search_videos": "//*[@id=\"searchList\"]/li",
     "search_name": "//div[2]/h4/a@text",
     "search_cover": "//a/@data-original",
     "search_director": "//div[2]/p[1]@text",
