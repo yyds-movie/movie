@@ -66,7 +66,7 @@
     "charset": "utf8",
     "search_url": "https://jinmantv.com/index.php/vod/search.html?wd={{wd}}",
     "search_method": "get",
-   "search_videos": "//div[1]/div[2]/div/div/div[4]/div/div",
+    "search_videos": "//div[1]/div[2]/div/div/div[4]/div/div",
     "search_name": "//div[2]/div[1]/a/strong/@text",
     "search_cover": "///a/div/div[2]/img/@data-original",
     "search_director": "",
