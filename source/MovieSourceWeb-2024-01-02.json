@@ -8,7 +8,7 @@
     "comment": "",
     "header": "",
     "charset": "utf8",
-    "search_url": "https://www.zhangxindy.com/index.php/vod/search/wd/wd={{wd}}.html",
+    "search_url": "https://www.zhangxindy.com/index.php/vod/search.html?wd={{wd}}",
     "search_method": "get",
     "search_videos": "",
     "search_name": "",
