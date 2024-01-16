@@ -49,6 +49,7 @@
     "play_lines": "//*[@id=\"player-sidebar\"]/div/div/div/div[2]/ul/li/div/ul/li",
     "play_line_name": "//a@text",
     "play_line_url": "//a/@text",
+    "play_episode_groups": "//*[@id=\"playlist\"]/li@nodes",
     "play_episodes": "//li",
     "play_episode_name": "//a@text",
     "play_episode_url": "//a/@href",
