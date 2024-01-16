@@ -46,7 +46,7 @@
     "information_play_url": "//div[1]/div/div[1]/div[1]/div/div[2]/div[3]/a[1]/@href",
     "play_method": "get",
     "player_aaaa": "",
-    "play_lines": "//*[@id="player-sidebar"]/div/div/div/div[2]/ul/li/div/ul/li",
+    "play_lines": "//*[@id=\"player-sidebar\"]/div/div/div/div[2]/ul/li/div/ul/li",
     "play_line_name": "//a@text",
     "play_line_url": "//a/@text",
     "play_episode_groups": "//div[1]/div/div/div[1]/div[2]/div/div/div/div[3]/div",
