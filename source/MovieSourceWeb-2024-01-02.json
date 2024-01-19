@@ -106,7 +106,7 @@
     "play_line_name": "//a@text",
     "play_line_url": "//a/@href",
     "play_episode_groups": "//div[2]/div/div[2]/div/div[1]/div[2]/div",
-    "play_episodes": "//div[2]/div/div[2]/div/div[1]/div[2]/div[1]/ul[2]/li",
+    "play_episodes": "//ul[2]/li",
     "play_episode_name": "//a@text",
     "play_episode_url": "//a/@href",
     "explore_json": ""
