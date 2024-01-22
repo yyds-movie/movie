@@ -17,7 +17,7 @@
     "search_word_count": "",
     "search_introduction": "",
     "search_cover": "",
-    "search_information_url": "",
+    "search_information_url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json?ac=videolist&ids={{ids}}",
     "search_latest_chapter": "",
     "information_method": "get",
     "information_name": "",
