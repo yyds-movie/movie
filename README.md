@@ -37,6 +37,7 @@ X电影专为希望根据自定义规则解析网页内容的用户而设计。
 ## 👩‍💻 源编写
 
 提供了一个示例网络书源：WEB [https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceWeb-2024-01-02.json](https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceWeb-2024-01-02.json)
+
 提供了一个示例网络书源：JSON [https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceJson-2024-01-01.json](https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceJson-2024-01-01.json)
 
 在 **源管理——右上角——导入网络书源** 中导入即可（请提前科学上网），相关教程编写中
