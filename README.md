@@ -1,6 +1,9 @@
 <p align="center">
   <img
-    src="https://raw.gitmirror.com/yyds-movie/movie/main/images/flutter_logo_env_x3.png"
+    src="https://raw.gitmirror.com/yyds-movie/movie/main/images/flutter_logo_env_x3.png" width="15%"
+    />
+    <img
+    src="https://raw.gitmirror.com/yyds-movie/movie/main/images/flutter_logo_env_x3.png" width="15%"
     />
 </p>
 
