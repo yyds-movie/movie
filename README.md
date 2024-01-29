@@ -19,7 +19,7 @@ X电影专为电影爱好者用户而设计。
 
 > 保存永久下载地址不迷路
 
-[点击官方下载](https://testflight.apple.com/join/hDMYDZ0P)
+[点击进入官方下载](https://testflight.apple.com/join/hDMYDZ0P)
 
 
 ##  TestFlight
