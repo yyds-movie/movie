@@ -30,7 +30,7 @@ X电影专为电影爱好者用户而设计。
 
 ## 👩‍💻 源导入
 
-提供了一个示例网络书源：
+提供了一个示例网络源：
 
 [点击导入web源](https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceWeb.json)
 
