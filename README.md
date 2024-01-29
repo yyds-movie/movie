@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    src="https://raw.gitmirror.com/yyds-movie/movie/main/images/flutter_logo_env_x3.png" width="15.0%"
-    />
-    <img
-    src="https://raw.gitmirror.com/yyds-movie/movie/main/images/flutter_logo_env_x3.png" width="15.0%"
-    />
-</p>
 
 <h2 align="center">X电影：定制化的网页内容解析与展示工具</h2>
 
