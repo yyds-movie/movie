@@ -15,13 +15,20 @@ X电影专为电影爱好者用户而设计。
 
 ⬜ **多设备云同步**：基于各种第三方同步工具或协议，确保书源、播放进度和源规则等同步到云端，多设备共享。
 
+##📚 Androud(安卓)
+
+> 保存永久下载地址不迷路
+
+[点击官方下载](https://testflight.apple.com/join/hDMYDZ0P)
+
+
 ##  TestFlight
 
 > 仅有**10000**个名额，先到先得
 
 [点击进入 TestFlight 内测](https://testflight.apple.com/join/hDMYDZ0P)
 
-## 👩‍💻 源编写
+## 👩‍💻 源导入
 
 提供了一个示例网络书源：
 
