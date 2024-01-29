@@ -25,9 +25,9 @@ X电影专为电影爱好者用户而设计。
 
 提供了一个示例网络书源：
 
-[WEB源](https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceWeb.json)
+[web源点击导入](https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceWeb.json)
 
-[JSON源](https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceJson.json)
+[json源点击导入](https://raw.gitmirror.com/yyds-movie/movie/main/source/MovieSourceJson.json)
 
 在 **源管理——右上角——导入源** 中导入即可（请提前科学上网），相关教程编写中
 
