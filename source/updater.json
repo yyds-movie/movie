@@ -1,7 +1,21 @@
 {
-  "versionCode":100,
-  "versionName":"1.0.0",
-  "contentText":"X电影：极致纯粹的观影工具",
-  "minSupport":2,
-  "url":"https://down-load.lanrar.com/file/?AGYFO11sU2IFDFZuCj8GalRrVGxTPgAyADVSZwFsVmUGNwVqWzQPagNlAWQBMFc4VnpSCFZxATdVDQQwUSMANAAuBWJdKFM1BWZWMAp3BipUdlR8U34AZwBrUjEBPFYkBmMFfFtnDysDPgFxATNXP1ZgUjJWVgFqVTYEP1E8ADQAMwVmXTlTNwVrVjAKaQYhVGhUIlMxADQANlJgAWxWZwY3BWpbNw99AyUBJwFoV2RWPFJlVjoBLFVjBDBRIgAwADgFfV03U2QFN1ZjCjsGYlQ/VDRTPgBnAGVSZwFoVjYGPwVrWzYPYwMwAWcBbVdjVj9SMlZoATZVNwQyUT4AYgA5BTFdLlNmBSNWawp4BnJUfVQ0U34AawBjUmkBb1ZmBj4Fa1s/D20DbAFxASFXP1ZhUjJWbwE+VWMENVE9ADcANQVgXTFTMQVmVjcKcAYpVChUN1NgAHUAOlJlAWpWZwYwBWFbPg9qA2YBYwFlV3BWeVInVn4BPlVjBDVRPQAzADkFYl00UzAFZlY1CngGclRnVCFTMQAwADVSZQFzVmYGPgVjWygPagNtAWIBe1dkVjxSZQ=="
+  "updatedAt": "2023-12-18T12:36:44.501Z",
+  "appName": "env_x1",
+  "isMode": false,
+  "ACL": {
+    "*": {
+      "read": true,
+      "write": true
+    }
+  },
+  "objectId": "648ad37e06326254dc16ffb8",
+  "buildNumber": "250",
+  "createdAt": "2023-06-15T09:01:50.482Z",
+  "msg": "X电影：极致纯粹的观影工具",
+  "auditNumber": " ",
+  "title": "有新的版本更新啦\n",
+  "url": "https://pan.lanzouj.com/dbxs",
+  "lanzouo": "http://api.wer.plus/api/lanz",
+  "deviceType": "android",
+  "version": "2.5.0"
 }
