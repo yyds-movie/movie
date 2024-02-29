@@ -58,5 +58,15 @@
     "name": "映迷",
     "url": "https://www.inmi.app/api.php/provide/vod",
     "type": "json"
+  },
+  {
+    "name": "海外看",
+    "url": "https://haiwaikan.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "索尼资源(切)",
+    "url": "https://suoniapi.com/api.php/provide/vod/",
+    "type": "json"
   }
 ]
