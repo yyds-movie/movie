@@ -614,5 +614,20 @@
     "play_episode_name": "",
     "play_episode_url": "",
     "explore_json": ""
+  },
+  {
+    "name": "在线之家",
+    "url": "https://www.zxzj.pro/",
+    "type": "web"
+  },
+  {
+    "name": "厂长资源",
+    "url": "https://czz9.com/",
+    "type": "web"
+  },
+  {
+    "name": "厂长资源",
+    "url": "https://czz9.com/",
+    "type": "web"
   }
 ]
