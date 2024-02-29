@@ -9,17 +9,17 @@
     "url": "http://app.bfzyapi.com/api.php/provide/vod",
     "type": "json"
   },
-   {
+  {
     "name": "非凡",
     "url": "http://cj.ffzyapi.com/api.php/provide/vod",
     "type": "json"
   },
-   {
+  {
     "name": "虎牙",
     "url": "https://www.huyaapi.com/api.php/provide/vod/at/json",
     "type": "json"
   },
-   {
+  {
     "name": "天空",
     "url": "https://api.tiankongapi.com/api.php/provide/vod",
     "type": "json"
@@ -29,22 +29,22 @@
     "url": "https://www.feisuzyapi.com/api.php/provide/vod",
     "type": "json"
   },
-   {
+  {
     "name": "新浪",
     "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
     "type": "json"
   },
-   {
+  {
     "name": "妖灵",
     "url": "https://api.1080zyku.com/inc/apijson.php",
     "type": "json"
   },
-   {
+  {
     "name": "量子",
     "url": "https://cj.lziapi.com/api.php/provide/vod",
     "type": "json"
   },
-   {
+  {
     "name": "智能",
     "url": "http://player.znjson.com/api.php/provide/vod",
     "type": "json"
@@ -69,209 +69,209 @@
     "url": "https://suoniapi.com/api.php/provide/vod/",
     "type": "json"
   },
-    {
-        "name": "海外看(需要代理)",
-        "url": "https://haiwaikan.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "映迷",
-        "url": "https://www.inmi.app/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "唐人街",
-        "url": "https://www.tangrenjie.tv/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "极速资源",
-        "url": "https://jszyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "卧龙资源",
-        "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "索尼资源",
-        "url": "https://suoniapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "天空资源",
-        "url": "https://api.tiankongapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "飞速资源",
-        "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "红牛资源",
-        "url": "https://www.hongniuzy2.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "非凡资源",
-        "url": "https://cj.ffzyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "量子资源",
-        "url": "https://cj.lziapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "ikun资源",
-        "url": "https://ikunzyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "光速资源",
-        "url": "https://api.guangsuapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "百度资源",
-        "url": "https://api.apibdzy.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "ck资源",
-        "url": "https://ckzy.me/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "快播资源",
-        "url": "https://caiji.kczyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "U酷资源",
-        "url": "https://api.ukuapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "闪电资源",
-        "url": "https://sdzyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "无尽资源",
-        "url": "https://api.wujinapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "火狐资源",
-        "url": "https://hhzyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "虎牙资源",
-        "url": "https://www.huyaapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "樱花资源",
-        "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "四圈资源",
-        "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "最大资源",
-        "url": "https://api.zuidapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "暴风资源",
-        "url": "https://bfzyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "快看资源",
-        "url": "https://kuaikan-api.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "快车资源",
-        "url": "https://caiji.kczyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "金鹰资源",
-        "url": "https://jyzyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "新浪资源",
-        "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "飞速资源",
-        "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "feifei",
-        "url": "http://www.feifei67.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "飘花资源",
-        "url": "http://www.ahjiuman.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "天翼资源",
-        "url": "https://www.911ysw.top/tianyi.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "新马影视",
-        "url": "https://movie.gsl99.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "飘零资源",
-        "url": "https://p2100.net/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "789资源",
-        "url": "https://www.rrvipw.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "速播资源",
-        "url": "https://subocaiji.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "夸克资源",
-        "url": "https://kuakezy1.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "鱼乐资源",
-        "url": "https://api.ylzy.me/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "大漠资源",
-        "url": "https://damozy1.com/api.php/provide/vod/",
-         "type": "json"
-    },
-    {
-        "name": "奇虎资源",
-        "url": "https://caiji.qhzyapi.com/api.php/provide/vod",
-         "type": "json"
-    }
+  {
+    "name": "海外看(需要代理)",
+    "url": "https://haiwaikan.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "映迷",
+    "url": "https://www.inmi.app/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "唐人街",
+    "url": "https://www.tangrenjie.tv/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "极速资源",
+    "url": "https://jszyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "卧龙资源",
+    "url": "https://collect.wolongzy.cc/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "索尼资源",
+    "url": "https://suoniapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "天空资源",
+    "url": "https://api.tiankongapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "飞速资源",
+    "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "红牛资源",
+    "url": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "非凡资源",
+    "url": "https://cj.ffzyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "量子资源",
+    "url": "https://cj.lziapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "ikun资源",
+    "url": "https://ikunzyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "光速资源",
+    "url": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "百度资源",
+    "url": "https://api.apibdzy.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "ck资源",
+    "url": "https://ckzy.me/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "快播资源",
+    "url": "https://caiji.kczyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "U酷资源",
+    "url": "https://api.ukuapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "闪电资源",
+    "url": "https://sdzyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "无尽资源",
+    "url": "https://api.wujinapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "火狐资源",
+    "url": "https://hhzyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "虎牙资源",
+    "url": "https://www.huyaapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "樱花资源",
+    "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "四圈资源",
+    "url": "https://pg.fenwe078.cf/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "最大资源",
+    "url": "https://api.zuidapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "暴风资源",
+    "url": "https://bfzyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "快看资源",
+    "url": "https://kuaikan-api.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "快车资源",
+    "url": "https://caiji.kczyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "金鹰资源",
+    "url": "https://jyzyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "新浪资源",
+    "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "飞速资源",
+    "url": "https://www.feisuzyapi.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "feifei",
+    "url": "http://www.feifei67.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "飘花资源",
+    "url": "http://www.ahjiuman.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "天翼资源",
+    "url": "https://www.911ysw.top/tianyi.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "新马影视",
+    "url": "https://movie.gsl99.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "飘零资源",
+    "url": "https://p2100.net/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "789资源",
+    "url": "https://www.rrvipw.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "速播资源",
+    "url": "https://subocaiji.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "夸克资源",
+    "url": "https://kuakezy1.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "鱼乐资源",
+    "url": "https://api.ylzy.me/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "大漠资源",
+    "url": "https://damozy1.com/api.php/provide/vod/",
+    "type": "json"
+  },
+  {
+    "name": "奇虎资源",
+    "url": "https://caiji.qhzyapi.com/api.php/provide/vod",
+    "type": "json"
+  }
 ]
