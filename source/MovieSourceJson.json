@@ -53,5 +53,10 @@
     "name": "最大",
     "url": "https://api.zuidapi.com/api.php/provide/vod",
     "type": "json"
+  },
+  {
+    "name": "映迷",
+    "url": "https://www.inmi.app/api.php/provide/vod",
+    "type": "json"
   }
 ]
