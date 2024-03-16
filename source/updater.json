@@ -6,7 +6,7 @@
   "msg": "X电影：极致纯粹的观影工具",
   "title": "有新的版本更新啦\n",
   "lanz": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
-  "helpUrl": "https://raw.gitmirror.com/yyds-movie/movie/main/README.md",
+  "readme": "https://raw.gitmirror.com/yyds-movie/movie/main/README.md",
   "apps_api": "https://raw.gitmirror.com/yyds-movie/movie/main/source/apps.json",
   "deviceType": "android",
   "isMode": false,
