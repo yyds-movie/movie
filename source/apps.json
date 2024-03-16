@@ -1,1 +1,162 @@
-
+[
+  {
+    "name": "腾讯视频",
+    "description": "庆余年热播",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_3040_1579418166/256",
+    "packageName": "com.tencent.qqlive",
+    "bundleId": "458318329",
+    "urlScheme": "tenvideo://"
+  },
+  {
+    "name": "QQ音乐",
+    "description": "新春领好运，亿元红包“鼠”于你",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_6259_1579329439/256",
+    "packageName": "com.tencent.qqmusic",
+    "bundleId": "414603431",
+    "urlScheme": "qqmusic://"
+  },
+  {
+    "name": "腾讯手机管家—QQ微信保护",
+    "description": "微信QQ官方安全软件，免费上网",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_5284_1579248583/256",
+    "packageName": "com.tencent.qqpimsecure",
+    "bundleId": "439638720",
+    "urlScheme": "mqqsecure://"
+  },
+  {
+    "name": "腾讯体育-中超英超直播",
+    "description": "NBA、CBA、电竞、NFL视频直播",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1297151_1579595028/256",
+    "packageName": "com.tencent.qqsports",
+    "bundleId": "570608623",
+    "urlScheme": "qqsports://"
+  },
+  {
+    "name": "看点快报",
+    "description": "腾讯看点兴趣阅读平台",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12082013_1579167290/256",
+    "packageName": "com.tencent.reading",
+    "bundleId": "996866372",
+    "urlScheme": "None"
+  },
+  {
+    "name": "拳皇命运：Angelababy也来KO",
+    "description": "正版拳皇格斗手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52531816_1576566249/256",
+    "packageName": "com.tencent.kof",
+    "bundleId": "125033991",
+    "urlScheme": "None"
+  },
+  {
+    "name": "腾讯地图",
+    "description": "实时公交路线导航路况查询出行",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10237_1579239058/256",
+    "packageName": "com.tencent.map",
+    "bundleId": "481623196",
+    "urlScheme": "qqmap://"
+  },
+  {
+    "name": "龙族幻想",
+    "description": "《龙族幻想》是一款次时代MMORPG新作，游戏内实时天气变化结合动态点光源技术，打造更加真实的游戏世界；电影级的剧情表现，增强游戏带入感；重视过程体验的丰富游戏玩法，带来良好的游戏体验。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52766642_1578899100/256",
+    "packageName": "com.tencent.lzhx",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "name": "腾讯新闻-事实派，真实客观的精品资讯",
+    "description": "看新闻攒积分，壕礼兑不停",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_5613_1579252989/256",
+    "packageName": "com.tencent.news",
+    "bundleId": "399363156",
+    "urlScheme": "qqnews://"
+  },
+  {
+    "name": "妖精的尾巴：魔导少年",
+    "description": "腾讯全新自研回合RPG手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52487650_1579138481/256",
+    "packageName": "com.tencent.ft",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "name": "微视-瓜分十亿现金红包",
+    "description": "视频红包拜大年",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10261931_1579509110/256",
+    "packageName": "com.tencent.weishi",
+    "bundleId": "691828408",
+    "urlScheme": "weishi://"
+  },
+  {
+    "name": "跑跑卡丁车官方竞速版",
+    "description": "十三年竞速经典回归",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52750606_1578292920/256",
+    "packageName": "com.tencent.tmgp.WePop",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "name": "腾讯直播",
+    "description": "明星大咖零距离互动，等你来撩!",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12268734_1555792614/256",
+    "packageName": "com.tencent.qqlivebroadcast",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "name": "QQ炫舞手游",
+    "description": "原版IP唯一正版",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52455981_1578623717/256",
+    "packageName": "com.tencent.tmgp.qqx5",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "name": "QQ",
+    "description": "乐在沟通20年，聊天欢乐9亿人！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_6633_1577985678/256",
+    "packageName": "com.tencent.mobileqq",
+    "bundleId": "444934666",
+    "urlScheme": "mqq://"
+  },
+  {
+    "name": "水印相机",
+    "description": "√ 2013年中国互联网年度“极佳用户体验”产品，千万用户的共同选择\r √ 国内首屈一指的文艺、受欢迎的照片加水印软件\r \r **** 功能介绍 ****\r 把“好故事”印在照片上！ \r 1.丰富的水印类型：拥有特色、心情、人像等7大类百余款水印；\r 2.智能的水印模版：地点、时间、分贝、海拔、，智能水印自动添加到照片上；\r 3.自定义水印内容：地点修改、心情编辑，你的水印你说了算\r 4.人像水印新玩法：真身大鉴定、魅力值等，让拍照更欢乐；\r 5、极致美颜滤镜：提升人像美感，增强图片质感。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1264115_1575364956/256",
+    "packageName": "com.tencent.zebra",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "name": "和平精英",
+    "description": "腾讯光子工作室群自研打造的军事竞赛体验手游。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52575843_1578017596/256",
+    "packageName": "com.tencent.tmgp.pubgmhd",
+    "bundleId": "132180370",
+    "urlScheme": "None"
+  },
+  {
+    "name": "微信",
+    "description": "1.可以发语音、文字消息、表情、图片、视频30M流量可以收发上千条语音，省电省流量\r 2.朋友圈，跟朋友们分享生活点滴\r 3.摇一摇、查看附近的人，世界不再有陌生人\r 4.扫一扫，可以扫商品条码、图书封面、CD封面，甚至扫描英文单词来翻译成中文\r 5.公众帐号，用微信关注明星、看新闻、设提醒\r 6.游戏中心，和朋友们一起玩游戏\r 7.表情商店，有趣好玩的表情在这里特别说明：微信只消耗网络流量，不产生短信电话费用",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10910_1578408738/256",
+    "packageName": "com.tencent.mm",
+    "bundleId": "414478124",
+    "urlScheme": "weixin://"
+  },
+  {
+    "name": "QQ创意相机",
+    "description": "让你的照片从此会说话。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1272034_1555796543/256",
+    "packageName": "com.tencent.qqpicshow",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "name": "王牌战士",
+    "description": "《王牌战士》由腾讯游戏魔方工作室群研发的热血漫多角色射击手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52740850_1578971064/256",
+    "packageName": "com.tencent.af",
+    "bundleId": "None",
+    "urlScheme": "None"
+  }
+]
