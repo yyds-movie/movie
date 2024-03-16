@@ -16,6 +16,8 @@
   "title": "有新的版本更新啦\n",
   "lanz": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
   "helpUrl": "https://raw.gitmirror.com/yyds-movie/movie/main/README.md",
+  "lanz": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
+  "apps_api": "https://raw.gitmirror.com/yyds-movie/movie/main/source/apps.json",
   "fileUrl": "",
   "fileName": "202312182103env_x4_2.5.0(250)-x-release.apk",
   "fileSize": "58.6 M",
