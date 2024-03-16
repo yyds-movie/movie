@@ -7,7 +7,7 @@
   "title": "有新的版本更新啦\n",
   "lanz": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
   "readme": "https://raw.gitmirror.com/yyds-movie/movie/main/README.md",
-  "apps_api": "https://raw.gitmirror.com/yyds-movie/movie/main/source/apps.json",
+  "apps": "https://raw.gitmirror.com/yyds-movie/movie/main/source/apps.json",
   "deviceType": "android",
   "isMode": false,
   "updatedAt": "2023-12-18T12:36:44.501Z",
