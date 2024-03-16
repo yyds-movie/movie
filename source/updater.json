@@ -1,26 +1,21 @@
 {
-  "updatedAt": "2023-12-18T12:36:44.501Z",
+  "objectId": "648ad37e06326254dc16ffb8",
   "appName": "env_x1",
+  "buildNumber": "250",
+  "auditNumber": " ",
+  "msg": "X电影：极致纯粹的观影工具",
+  "title": "有新的版本更新啦\n",
+  "lanz": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
+  "helpUrl": "https://raw.gitmirror.com/yyds-movie/movie/main/README.md",
+  "apps_api": "https://raw.gitmirror.com/yyds-movie/movie/main/source/apps.json",
+  "deviceType": "android",
   "isMode": false,
+  "updatedAt": "2023-12-18T12:36:44.501Z",
+  "createdAt": "2023-06-15T09:01:50.482Z",
   "ACL": {
     "*": {
       "read": true,
       "write": true
     }
-  },
-  "objectId": "648ad37e06326254dc16ffb8",
-  "buildNumber": "250",
-  "createdAt": "2023-06-15T09:01:50.482Z",
-  "msg": "X电影：极致纯粹的观影工具",
-  "auditNumber": " ",
-  "title": "有新的版本更新啦\n",
-  "lanz": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
-  "helpUrl": "https://raw.gitmirror.com/yyds-movie/movie/main/README.md",
-  "lanz": "http://api.wer.plus/api/lanz?url=https://pan.lanzv.com/cbh",
-  "apps_api": "https://raw.gitmirror.com/yyds-movie/movie/main/source/apps.json",
-  "fileUrl": "",
-  "fileName": "202312182103env_x4_2.5.0(250)-x-release.apk",
-  "fileSize": "58.6 M",
-  "deviceType": "android",
-  "version": "2.5.0"
+  }
 }
